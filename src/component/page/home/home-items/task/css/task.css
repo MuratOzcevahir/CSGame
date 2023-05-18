@@ -1,0 +1,44 @@
+
+#_taskHolder ._taskTitle p {
+    color: rgb(182, 182, 182);
+    margin: 0px;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+#_taskHolder ._taskTitle {
+    width: 100%;
+}
+
+#_taskDescriptionHolder hr {
+    margin: 3px 3px;
+
+    border-width: 2px;
+    border-color: rgb(224, 221, 177);
+}
+
+#_taskDescriptionHolder h6 {
+    color: rgba(245, 222, 179, 0.649);
+    font-size: 12px;
+}
+#_taskHolder ._taskTitle hr {
+    border-width: 5px;
+    border-color: rgb(0, 0, 0);
+    margin: 0px;
+}
+._foodTaskHolder{
+    background-color: rgba(59, 54, 53, 0.473);
+}._woodTaskHolder{
+    background-color: rgba(47, 64, 44, 0.473);
+}._civilizationTaskHolder{
+    background-color: rgba(41, 52, 75, 0.473);
+}
+._civilizationTaskHolder a{
+  color: rgb(174, 122, 79)!important;
+  font-weight: 600;
+  background-color: rgb(50, 67, 74);
+  padding: 2px;
+  border-radius: 5px;
+  cursor: cell;
+}

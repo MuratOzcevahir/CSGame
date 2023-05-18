@@ -1,0 +1,1402 @@
+{
+  "GameData": [
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 0,
+        "TotalFoodReduce": 0,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 2
+          },
+          "Detail": {
+            "Multiply": 0,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 4274.44350830078,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 1000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 2,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 10
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 223121673.31431654,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 800
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 80,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 1,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 16384
+          },
+          "CanWork": true
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 712.0778234863283
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 1
+    },
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 5,
+        "TotalFoodReduce": 6.274851700000001,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 1
+          },
+          "Detail": {
+            "Multiply": 1,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 20049.69,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 1000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 80.30390625000014,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 10
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 223121708.0952931,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 100
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 5
+          },
+          "Detail": {
+            "Power": 0.17085937500000004,
+            "Multiply": 1,
+            "FoodReduce": 1.2549703400000003,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 128
+          },
+          "CanWork": true
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 241.82085937499872
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 2
+    },
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 0,
+        "TotalFoodReduce": 0,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 1
+          },
+          "Detail": {
+            "Multiply": 1,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 20000,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 1000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 32,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 10
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 223123213,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 100
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0.01,
+            "Multiply": 1,
+            "FoodReduce": 0.2,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 1
+          },
+          "CanWork": true
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 7
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 3
+    },
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 0,
+        "TotalFoodReduce": 0,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 1
+          },
+          "Detail": {
+            "Multiply": 1,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 20000,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 1000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 25,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 10
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 223123213,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 100
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0.01,
+            "Multiply": 1,
+            "FoodReduce": 0.2,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 1
+          },
+          "CanWork": true
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 0
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 4
+    },
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 300,
+        "TotalFoodReduce": 10000000000000000000,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 132
+          },
+          "Detail": {
+            "Multiply": 1,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 9999999999999,
+            "Level": 3
+          },
+          "Detail": {
+            "Power": 1.3000000000000003,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 8000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 9999999999999,
+            "Level": 8
+          },
+          "Detail": {
+            "Power": 99,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 15258.7890625
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 171678972.5114927,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 999,
+            "Capacity": 9999999999999
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 20480,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1048576
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 999999
+          },
+          "Detail": {
+            "Power": 49.87885095119478,
+            "Multiply": 1,
+            "FoodReduce": 49.412905814690106,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 2097152
+          },
+          "CanWork": false
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 99999999999
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 5
+    },
+    {
+      "Profile": {
+        "Level": 0,
+        "Experiance": 0,
+        "CurrentExperiance": 0,
+        "Prestige": 0
+      },
+      "Civilization": {
+        "Population": 0,
+        "TotalFoodReduce": 0,
+        "House": {
+          "General": {
+            "Level": 0,
+            "Amount": 1
+          },
+          "Detail": {
+            "Multiply": 1,
+            "Capacity": 5
+          },
+          "UpdatePrice": {
+            "Coin": 100,
+            "Wood": 100
+          }
+        }
+      },
+      "Resource": {
+        "Coin": {
+          "General": {
+            "Amount": 20000,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1,
+            "Autosell": false
+          },
+          "UpdatePrice": {
+            "Coin": 1000
+          }
+        },
+        "Wood": {
+          "General": {
+            "Amount": 25,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 10
+          }
+        },
+        "Food": {
+          "General": {
+            "Amount": 223123213,
+            "Level": 0
+          },
+          "Detail": {
+            "Power": 0.1,
+            "Multiply": 1
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          }
+        }
+      },
+      "Storage": {
+        "WoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 100
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 1
+            }
+          }
+        },
+        "FoodStorage": {
+          "General": {
+            "Level": 0,
+            "Capacity": 10
+          },
+          "Detail": {
+            "BuyPrice": {
+              "Wood": 10,
+              "Coin": 10
+            },
+            "UpdatePrice": {
+              "Coin": 10
+            }
+          }
+        }
+      },
+      "Worker": {
+        "WoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0.01,
+            "Multiply": 1,
+            "FoodReduce": 0.2,
+            "BuyPrice": {
+              "Wood": 1,
+              "Coin": 1,
+              "Food": 1
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 1
+          },
+          "CanWork": true
+        },
+        "FoodWorker": {
+          "General": {
+            "Level": 0,
+            "Amount": 0
+          },
+          "Detail": {
+            "Power": 0,
+            "Multiply": 0,
+            "FoodReduce": 0,
+            "BuyPrice": {
+              "Wood": 0,
+              "Coin": 0,
+              "Food": 0
+            }
+          },
+          "UpdatePrice": {
+            "Coin": 0
+          },
+          "CanWork": false
+        }
+      },
+      "Achievement": {
+        "Civilization": {
+          "Population": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "House": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Profile": {
+          "Level": {
+            "Reach": 0,
+            "Current": 0
+          }
+        },
+        "Resource": {
+          "Coin": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          },
+          "Wood": {
+            "Amount": {
+              "Reach": 20,
+              "Current": 0
+            }
+          },
+          "Food": {
+            "Amount": {
+              "Reach": 0,
+              "Current": 0
+            }
+          }
+        },
+        "Worker": {
+          "Amount": {
+            "Reach": 0,
+            "Current": 0
+          }
+        }
+      },
+      "ERROR": {
+        "GlobalError": ""
+      },
+      "Statistic": {},
+      "id": 6
+    }
+  ],
+  "UserData": [
+    {
+      "UserName": "deneme",
+      "UserPassword": "123",
+      "UserEmail": "abc",
+      "CreateDate": "28.03.2023 13:55:03",
+      "id": 1
+    },
+    {
+      "UserName": "deneme2",
+      "UserPassword": "1234",
+      "UserEmail": "abcd",
+      "CreateDate": "28.03.2023 13:55:28",
+      "id": 2
+    },
+    {
+      "UserName": "kediko",
+      "UserPassword": "123",
+      "UserEmail": "muratozcevahir@gmail.com",
+      "CreateDate": "31.03.2023 22:06:13",
+      "id": 3
+    },
+    {
+      "UserName": "firtiti",
+      "UserPassword": "firat123.",
+      "UserEmail": "firat.ozcevahir@gmail.com",
+      "CreateDate": "3/31/2023, 10:08:15 PM",
+      "id": 4
+    },
+    {
+      "UserName": "firot",
+      "UserPassword": "123",
+      "UserEmail": "firatoz@gmail.çcom",
+      "CreateDate": "31.03.2023 22:09:29",
+      "id": 6
+    },
+    {
+      "UserName": "user5",
+      "UserPassword": "123456",
+      "UserEmail": "user@gmail.com",
+      "CreateDate": "07.04.2023 17:41:37",
+      "id": 7
+    },
+    {
+      "UserName": "qwe",
+      "UserPassword": "qwe",
+      "UserEmail": "qwe",
+      "CreateDate": "07.04.2023 17:42:20",
+      "id": 8
+    }
+  ],
+  "UserAttacking": [
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290088270,
+      "AttackEndDate": 1680290133270,
+      "AttackerBackDate": 1680290178270,
+      "id": 4
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290089982,
+      "AttackEndDate": 1680290134982,
+      "AttackerBackDate": 1680290179982,
+      "id": 5
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290090464,
+      "AttackEndDate": 1680290135464,
+      "AttackerBackDate": 1680290180464,
+      "id": 6
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290090663,
+      "AttackEndDate": 1680290135663,
+      "AttackerBackDate": 1680290180663,
+      "id": 7
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290090857,
+      "AttackEndDate": 1680290135857,
+      "AttackerBackDate": 1680290180857,
+      "id": 8
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091073,
+      "AttackEndDate": 1680290136073,
+      "AttackerBackDate": 1680290181073,
+      "id": 9
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091227,
+      "AttackEndDate": 1680290136227,
+      "AttackerBackDate": 1680290181227,
+      "id": 10
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091390,
+      "AttackEndDate": 1680290136390,
+      "AttackerBackDate": 1680290181390,
+      "id": 11
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091537,
+      "AttackEndDate": 1680290136537,
+      "AttackerBackDate": 1680290181537,
+      "id": 12
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091679,
+      "AttackEndDate": 1680290136679,
+      "AttackerBackDate": 1680290181679,
+      "id": 13
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290091859,
+      "AttackEndDate": 1680290136859,
+      "AttackerBackDate": 1680290181859,
+      "id": 14
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092038,
+      "AttackEndDate": 1680290137038,
+      "AttackerBackDate": 1680290182038,
+      "id": 15
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092183,
+      "AttackEndDate": 1680290137183,
+      "AttackerBackDate": 1680290182183,
+      "id": 16
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092339,
+      "AttackEndDate": 1680290137339,
+      "AttackerBackDate": 1680290182339,
+      "id": 17
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092501,
+      "AttackEndDate": 1680290137501,
+      "AttackerBackDate": 1680290182501,
+      "id": 18
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092650,
+      "AttackEndDate": 1680290137650,
+      "AttackerBackDate": 1680290182650,
+      "id": 19
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290092799,
+      "AttackEndDate": 1680290137799,
+      "AttackerBackDate": 1680290182799,
+      "id": 20
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290096029,
+      "AttackEndDate": 1680290141029,
+      "AttackerBackDate": 1680290186029,
+      "id": 21
+    },
+    {
+      "AttackerId": 1,
+      "AttackedId": 2,
+      "AttackStartDate": 1680290114033,
+      "AttackEndDate": 1680290159033,
+      "AttackerBackDate": 1680290204033,
+      "id": 22
+    }
+  ],
+  "UserAttacked": [
+    {
+      "AttackerId": 2,
+      "AttackedId": 1,
+      "WarId": 1,
+      "WoodAmount": 310,
+      "id": 1
+    },
+    {
+      "AttackerId": 2,
+      "AttackedId": 1,
+      "WarId": 2,
+      "WoodAmount": 222,
+      "id": 2
+    },
+    {
+      "AttackerId": 2,
+      "AttackedId": 1,
+      "WarId": 3,
+      "WoodAmount": 169,
+      "id": 3
+    }
+  ]
+}

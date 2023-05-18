@@ -1,0 +1,80 @@
+#_welcomeHolder {
+    margin-top: 5px;
+}
+#_welcomeHolder h4 {
+
+    color: rgba(205, 199, 168, 0.619);
+    margin: 0px;
+    font-size: 20px;
+
+}
+
+#_welcomeHolder h3 {
+
+    color: rgba(163, 86, 48, 0.619);
+    margin: 0px;
+    font-size: 25px;
+
+}
+
+#_gameStatsHolder td:last-child {
+    color: rgb(67, 150, 192);
+    letter-spacing: 2px;
+    font-weight: 600;
+    padding: 5px;
+    margin: 0px;
+}
+
+#_gameStatsHolder td:first-child {
+    color: rgba(143, 215, 56, 0.568);
+    padding: 5px;
+
+    margin: 0px;
+
+}
+
+#_gameStatsHolder tr {
+    margin: 0px;
+
+
+    border: 1px solid rgba(77, 57, 11, 0.722);
+
+}
+
+#_gameStatsHolder table {
+
+    width: 100%;
+    font-size: 12px;
+}
+
+@media screen and (max-width:600px) {
+    #_gameStatsHolder table {
+
+        width: 90%;
+    }
+
+}
+
+#_gameStatsHolder .infoTitle {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    color: rgb(183, 160, 116);
+    width: 100%;
+    font-size: 40px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  
+}
+ 
+ 
+#_updatesHolder ul {
+    flex-direction: column;
+    list-style: square;
+    margin-left: 20px;
+}
+
+#_updatesHolder ul li {
+    color: rgb(141, 122, 88);
+
+}

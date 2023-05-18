@@ -1,0 +1,63 @@
+#_settingTab h3 {
+
+    color: rgb(255, 121, 72);
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+#_settingTab hr{
+    color: rgb(69, 68, 68);
+    border-width: 5px;
+}
+#_settingTab h1 {
+
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+}
+
+#_settingTab label {
+
+    color: rgb(150, 93, 72);
+    margin: 0px;
+    padding: 0px;
+}
+
+#_settingTab #_setScreen button {
+    border: none;
+    height: 35px;
+    background-color: rgb(169, 171, 113);
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+ 
+#_settingTab #_profileSetting input {
+    background: rgb(97, 105, 63);
+    height: 30px;
+    width: 70%;
+    border: 1px solid rgba(153, 255, 0, 0.211);
+    margin: 2px;
+    padding: 2px 5px;
+    border-radius: 2px;
+    font-weight: 500;
+}
+
+#_settingTab #_profileSetting button {
+    background: rgb(108, 151, 172);
+    height: 30px;
+    border: 1px solid rgb(0, 153, 255);
+    border-radius: 2px;
+    margin: 2px;
+    font-weight: 600;
+}
+
+#_settingTab #_developedByHolder a {
+    color: rgb(225, 168, 63);
+    text-decoration: underline;
+    font-size: 12px;
+
+    text-decoration-color: rgb(54, 59, 147);
+
+}

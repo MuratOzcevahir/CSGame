@@ -1,0 +1,88 @@
+#_loginHolder {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(180deg, rgba(34, 32, 38, 1) 50%, rgb(15, 60, 12) 500%);
+}
+#_loginHolder hr {
+    border-width: 1px;
+    border-color: rgba(226, 226, 226, 0.679);
+}
+
+#_loginHolder input {
+    background: rgba(240, 255, 172, 0.058);
+    height: 60px;
+    border: 1px solid rgba(153, 255, 0, 0.211);
+    padding: 2px 15px;
+    border-radius: 5px;
+    color: wheat;
+    font-weight: 200;
+}
+
+#_loginHolder input:focus {
+    outline: 3px rgba(150, 225, 44, 0.689) solid;
+}
+
+#_loginHolder input::placeholder {
+    color: rgba(255, 255, 0, 0.27);
+    font-style: italic;
+}
+
+#_loginHolder button {
+    margin-top: 10px;
+    width: 100%;
+    padding: 10px;
+    background: rgba(137, 163, 23, 0.651);
+    height: 45px;
+    border: 1px solid rgb(52, 77, 0);
+    border-radius: 5px;
+}
+
+#_loginHolder a {
+    margin-left: 10px;
+    color: rgba(178, 207, 52, 0.651);
+    font-weight: 500;
+
+}
+
+#_loginHolder a:hover {
+    color: rgba(128, 201, 10, 0.832);
+
+}
+
+#_loginHolder button:hover {
+
+    background: rgba(137, 163, 23, 0.832);
+
+
+}
+
+#_loginHolder label {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+#_loginHolder .inputHolder {
+    width: 50%;
+}
+
+@media screen and (max-width:600px) {
+    #_loginHolder .inputHolder {
+        width: 90%;
+    }
+}
+
+#_loginHolder span {
+
+    margin-top: 10px;
+    font-size: 18px;
+    color: rgba(253, 238, 210, 0.51);
+    font-weight: 300;
+}
+
+#_loginHolder p {
+
+    font-size: 90px;
+    color: rgba(245, 222, 179, 0.401);
+    font-weight: 900;
+}

@@ -1,0 +1,23 @@
+a {
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+    color: white;
+    font-weight: 400;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 200,
+    'GRAD' 800,
+    'opsz' 48
+  }

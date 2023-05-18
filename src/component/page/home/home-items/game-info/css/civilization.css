@@ -1,0 +1,15 @@
+#_civilizationHolder {
+    background-color: rgba(201, 201, 201, 0.326);
+}
+
+#_civilizationHolder span {
+    color: rgb(233, 212, 185);
+    margin: 0px 2px;
+    font-size: 12px;
+}
+
+#_civilizationHolder h5 {
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+    margin: 0px;
+}

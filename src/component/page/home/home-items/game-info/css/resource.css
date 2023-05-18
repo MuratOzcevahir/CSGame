@@ -1,0 +1,14 @@
+#_resourceHolder ._resource 
+{
+    color: rgb(226, 185, 184);
+    display: flex;
+    align-items: center;
+    font-size: 17px;
+    font-weight: 400;   
+    padding: 2px 2px 0px 2px;
+    background-color: rgb(75, 77, 78);
+    border: 1px solid rgb(68, 68, 68);
+}
+#_resourceHolder #_resourceItemHolder span:last-child{
+    margin-left: 15px;
+}

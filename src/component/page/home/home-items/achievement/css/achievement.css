@@ -1,0 +1,21 @@
+#_achievementHolder #achievement .modal-dialog .modal-content
+{
+    background-color: rgb(62, 66, 113)!important;
+  padding: 15px;
+  color: black;
+
+} 
+#_achievementHolder a{
+    color: rgb(93, 103, 187);
+    font-weight: 700;
+} #_achievementHolder p{
+margin: 0px;
+padding: 0px;
+font-size: 15px;
+font-weight:700;
+} #_achievementHolder hr{
+    margin: 0px;
+    padding: 0px;
+    border-width: 2px;
+ 
+    } 

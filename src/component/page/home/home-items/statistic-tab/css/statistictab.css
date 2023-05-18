@@ -1,0 +1,67 @@
+#_statisticTabHolder h4 {
+
+    color: rgb(170, 53, 10);
+    margin: 0px;
+}
+
+#_statisticTabHolder table {
+    width: 100%;
+}
+
+#_statisticTabHolder .tableHead {
+    background-color: rgba(147, 61, 30, 0.11) !important;
+    color: black;
+    height: 40px;
+    text-align: center;
+
+}
+
+#_statisticTabHolder tr:nth-child(even) {
+    background-color: #1f29337f;
+
+
+
+}
+#_statisticTabHolder tr {
+    color: rgb(105, 58, 99);
+    font-weight: 500;
+    font-size: 15px;
+
+
+}
+@media screen and (max-width:600px) {
+    #_statisticTabHolder tr {
+        font-size: 12px;
+    }
+}
+
+#_statisticTabHolder tr td:first-child {
+    color: rgb(114, 94, 57);
+    font-weight: 500;
+    width: 50%;
+
+}
+
+#_statisticTabHolder p {
+    color: rgb(61, 139, 92);
+    margin: 0px;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(21, 50, 24);
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+@media screen and (max-width:600px) {
+    #_statisticTabHolder p {
+
+        font-size: 12px;
+
+    }
+}
+
+#_statisticTabHolder hr {
+
+    margin: 0px;
+}
