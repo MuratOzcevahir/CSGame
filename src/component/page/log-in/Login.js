@@ -6,7 +6,7 @@ import { appContext } from '../../context/AppContext';
 import {secretPass} from '../../context/Crpyto';
 function Login() {
     var ctx = useContext(appContext)
-
+    var b=1;
     var navigategame = useNavigate()
     var navigate = new useNavigate()
     const [userName, setUserName] = useState("")
